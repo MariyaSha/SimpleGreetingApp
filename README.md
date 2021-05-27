@@ -2,9 +2,9 @@
 A Simple Kivy Greeting App
 <br>
 <br>
-This is a very simple GUI App, receiving name input from user and returning a "Hello user!" greeting.
+This is a very simple GUI App that receives a name text input from the user and returns a "Hello" greeting.
 <br>
-This App was created for learning purposes - so please feel free to use anything from it that may help you in your Python journey.
+This App was created for learning purposes - so please feel free to use anything from it that may help you in your Python journey!
 <br>
 <br>
 ![text-Extract](https://user-images.githubusercontent.com/32107652/119795430-50313380-be8d-11eb-800f-43dc70d83035.jpg)
