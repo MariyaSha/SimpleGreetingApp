@@ -26,8 +26,6 @@ https://youtu.be/YDp73WjNISc
 <br>
 <b>Author:</b> Mariya Sha
 <br>
-<b>Email:</b> mariyasha888@gmail.com
-<br>
 <b>LinkedIn:</b> www.linkedin.com/in/mariyasha888
 <br>
 <b>Youtube:</b> www.youtube.com/PythonSimplified
